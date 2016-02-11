@@ -5,6 +5,8 @@ You can update or uninstall the packages by following the below commands.
 
 ## express
 
+Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
+
 ###### Install express and save it in your packages
 ```
 npm install --save express
@@ -21,6 +23,7 @@ npm uninstall --save express
 
 
 ## request
+Request is designed to be the simplest way possible to make http calls. It supports HTTPS and follows redirects by default.
 
 ###### Install request and save it in your packages
 ```
@@ -38,6 +41,7 @@ npm uninstall --save request
 ```
 
 ## async
+Async is a utility module which provides straight-forward, powerful functions for working with asynchronous JavaScript. It is originally designed for use with Node.js.
 
 ###### Install async and save it in your packages
 ```
@@ -54,7 +58,7 @@ npm uninstall --save async
 ```
 
 ## grunt
-I have installed grunt as dev package because when we deploy package on a server we don’t want our development packages published on the server.
+Grunt: a task-based command line build tool for JavaScript projects. I have installed grunt as dev package because when we deploy package on a server we don’t want our development packages published on the server.
 
 ###### Install grunt and save it in your packages
 ```
