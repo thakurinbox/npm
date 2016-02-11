@@ -69,3 +69,11 @@ npm update --save-dev grunt
 ```
 npm uninstall --save-dev grunt
 ```
+
+#### How to test app.
+
+Just clone the repository and go the the folder on your command line and run following command.
+
+```
+node app.js
+```
