@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/thakurinbox/npm#readme",
   "dependencies": {
-    "express": "^4.13.4"
+    "async": "^1.5.2",
+    "express": "^4.13.4",
+    "request": "^2.69.0"
   },
   "devDependencies": {
     "grunt": "^0.4.5"
