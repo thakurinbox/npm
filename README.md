@@ -72,7 +72,7 @@ npm uninstall --save-dev grunt
 
 #### How to test app.
 
-Just clone the repository and go the the folder on your command line and run following command.
+Just clone the repository and go the the folder on your command line and run following command. After that you can open open demo page on your localhost on port 3000. You can change the port in app.js
 
 ```
 node app.js
