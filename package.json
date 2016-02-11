@@ -1,0 +1,19 @@
+{
+  "name": "mydemoapp",
+  "version": "1.0.0",
+  "description": "demo app to start with and can be used anytime for start with",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thakurinbox/npm.git"
+  },
+  "author": "Naresh Thakur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thakurinbox/npm/issues"
+  },
+  "homepage": "https://github.com/thakurinbox/npm#readme"
+}
