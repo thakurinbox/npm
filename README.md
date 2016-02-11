@@ -51,3 +51,21 @@ npm update --save async
 ###### Uninstall async and remove from packages
 ```
 npm uninstall --save async
+```
+
+## grunt
+I have installed grunt as dev package because when we deploy package on a server we don’t want our development packages published on the server.
+
+###### Install grunt and save it in your packages
+```
+npm install --save-dev grunt
+```
+
+###### Update grunt and save it in your packages
+```
+npm update --save-dev grunt
+```
+###### Uninstall grunt and remove from packages
+```
+npm uninstall --save-dev grunt
+```
