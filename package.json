@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/thakurinbox/npm/issues"
   },
-  "homepage": "https://github.com/thakurinbox/npm#readme"
+  "homepage": "https://github.com/thakurinbox/npm#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
 }
